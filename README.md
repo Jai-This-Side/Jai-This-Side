@@ -1,7 +1,7 @@
 - 👋 Hi, Jai this side
 - 🇮🇳 | Indian
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me - jaisinghprsnl99@gmail.com
 
 <!---
