@@ -1,43 +1,80 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jai-this-side&label=Profile%20views&color=0e75b6&style=flat" alt="jai-this-side" /> </p>
-<h1 align="center">Hi 👋, I'm Jai Singh Bisht</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+# Hi 👋, I'm Jai Singh Bisht 
 
-- 🌱 I’m currently learning **DSA in Java**
+#  🥇 A passionate Software Engineer from India
 
-- 📫 How to reach me **jaisinghbisht@outlook.com**
+- #### 📫 How to reach me *jaisinghbisht@outlook.com*
+- #### 🌱 I’m currently learning DSA in Java
+- #### 👯 I’m looking to collaborate on amazing projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jai-singh-bisht-b28b29289" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-singh-bisht-b28b29289" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/better_jai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="better_jai" height="30" width="40" />
-  </a>
-</p>
+## linkedin : [Click Here](https://linkedin.com/in/jai-singh-bisht-b28b29289)
 
-<hr>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-This-side&theme=dark)](https://github.com/Jai-This-side) 
 
-<div>
-<img style="border: 5px solid white" align = "center" src="https://media1.tenor.com/m/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" alt="Compiled Code GIF" width="200">
-</div>
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-This-Side&theme=calm&show_icons=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-This-Side&theme=calm&layout=compact)](https://github.com/Jai-This-Side/)
 
-<hr>
+   <!--
+   ### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)&nbsp;&nbsp;
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)&nbsp;&nbsp;
+[<code>
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)&nbsp;&nbsp;
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)&nbsp;&nbsp;
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)&nbsp;&nbsp;
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)</br></br>
+[<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)&nbsp;&nbsp;
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)&nbsp;&nbsp;
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)&nbsp;&nbsp;
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)&nbsp;&nbsp;
+[<code>
+<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</code>](https://docs.microsoft.com/en-us/windows/terminal/)&nbsp;&nbsp;
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)&nbsp;&nbsp;
+[<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)&nbsp;&nbsp;
+[<code>
+<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+</code>](https://developer.apple.com/macos/)&nbsp;&nbsp;
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)&nbsp;&nbsp;
+-->
 
+## 📫 How to reach me :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jai-this-side" alt="jai-this-side" /></a> </p>
+*catch me up on*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-this-side&show_icons=true&locale=en&layout=compact" alt="jai-this-side" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jai-this-side&show_icons=true&locale=en" alt="jai-this-side" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-this-side&" alt="jai-this-side" /></p>
+<a href="https://www.linkedin.com/in/jai-singh-bisht-b28b29289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jai-This-Side" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/better_jai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="better_jai" height="50" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="jaisinghbisht@outlook.com" target = "blank"><img align = "center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height = "60" width = "60"></a>&nbsp;&nbsp;
