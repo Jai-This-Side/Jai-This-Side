@@ -6,11 +6,13 @@
 - #### 🌱 I’m currently learning DSA in Java
 - #### 👯 I’m looking to collaborate on amazing projects
 
-## linkedin : [Click Here](https://linkedin.com/in/jai-singh-bisht-b28b29289)
+## Linkedin : [Click Here](https://linkedin.com/in/jai-singh-bisht-b28b29289)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-This-side&theme=dark)](https://github.com/Jai-This-side) 
 
-![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-This-Side&theme=calm&show_icons=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-This-Side&theme=calm&layout=compact)](https://github.com/Jai-This-Side/)
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-This-Side&theme=calm&show_icons=true)&nbsp;
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-This-Side&theme=calm&layout=compact)](https://github.com/Jai-This-Side/)
 
    <!--
    ### Languages and Tools:
